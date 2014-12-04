@@ -3,7 +3,6 @@
 # require 'sinatra'
  
 # account_sid = "AC2df36928956ade9b0a2d3caeabb0caef"
-# auth_token = "4f7b62cb7defbdd1b44505358fbaac31"
 # client = Twilio::REST::Client.new account_sid, auth_token
  
 # from = "441290211141" # Your Twilio number
